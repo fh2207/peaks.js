@@ -8,3 +8,5 @@ docs
 node_modules
 peaks.js
 peaks.js.map
+.DS_Store
+
